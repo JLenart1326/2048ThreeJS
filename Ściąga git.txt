@@ -1,0 +1,16 @@
+New git repo
+1. Create new repo on git
+2. git init -b main
+3. git add .
+4. git commit -m "First commit"
+5. Copy URL from git
+6. git remote add origin (URL)
+7. git remote -v
+8. git pull --rebase origin main
+9. git push origin main
+
+Push to repo
+1. git add .    lub      git add (konkretny plik)
+2. git commit -m "Nazwa commitu"
+3. git pull --rebase origin main
+4. git push origin main

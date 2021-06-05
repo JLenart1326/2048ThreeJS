@@ -1,0 +1,15 @@
+2 - #eee6db
+4 - #ece0c8
+8 - #efb27c
+16 - #f39768
+32 - #f37d63
+64 - #f46042
+128 - #eacf76
+256 - #edcb67
+512 - #ecc85a
+1024 - #e7c257
+2048 - #e8be4e
+
+border - #bbada0
+grid - #cdc1b5
+tło - #fbf8ef
